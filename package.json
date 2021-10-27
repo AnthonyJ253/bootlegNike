@@ -36,5 +36,13 @@
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "uuid": "^7.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyJ253/mockNike.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnthonyJ253/mockNike/issues"
+  },
+  "homepage": "https://github.com/AnthonyJ253/mockNike#readme"
 }
